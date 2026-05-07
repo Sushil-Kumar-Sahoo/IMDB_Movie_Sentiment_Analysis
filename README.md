@@ -20,7 +20,7 @@ This project demonstrates practical skills in **Python, Pandas, NLP preprocessin
 
 ## Visual Insight
 
-![Positive and Negative Review Word Clouds](assets/wordcloud_positive_negative.png)
+![Positive and Negative Review Word Clouds](assets/wordcloud_positive_negative2.png)
 
 The word cloud shows that positive reviews often contain appreciation-focused words such as `great`, `love`, `best`, and `story`, while negative reviews highlight stronger criticism-oriented words such as `bad`, `worst`, and `waste`.
 
@@ -62,9 +62,10 @@ The word cloud shows that positive reviews often contain appreciation-focused wo
 
 ## How to Run
 
+
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Sushil-Kumar-Sahoo/IMDB_Movie_Sentiment_Analysis.git
+cd IMDB_Movie_Sentiment_Analysis
 pip install pandas numpy matplotlib seaborn nltk scikit-learn scipy wordcloud jupyter
 jupyter notebook movieSentimentAnalysis.ipynb
 ```
