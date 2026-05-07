@@ -53,7 +53,7 @@ The word cloud shows that positive reviews often contain appreciation-focused wo
 ```text
 .
 |-- assets/
-|   `-- wordcloud_positive_negative.png
+|   `-- wordcloud_positive_negative2.png
 |-- data/
 |   `-- IMDB Dataset.csv
 |-- movieSentimentAnalysis.ipynb
